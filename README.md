@@ -1,6 +1,6 @@
-# Inscriptions
+# Guide
 
-This is an example and does not use production graphics.
+This is html ordinals structure.
 
 `/content/` contains inscriptions that needs to be referenced by our inscriptions. References to this folder need to eventually be replaced with references containing inscription IDs. E.g. `/content/bg-1.png` could become `/content/[inscription-id]`.
 
